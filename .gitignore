@@ -17,3 +17,4 @@ proguard/
 *.log
 .navigation/git
 *.jks
+.idea/
